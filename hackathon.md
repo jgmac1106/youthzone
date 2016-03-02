@@ -11,4 +11,4 @@ The hack-a-thon will be open to any person under the age of 21, enrolled in high
 The hack-a-thon will probably be modified. Students will not be staying overnight. Security costs and parental permission too much to negotiate.
 
 ##Schedule
-###Date Staurday April 24th,
+###Date Saturday April 16th
