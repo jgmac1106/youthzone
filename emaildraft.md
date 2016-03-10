@@ -11,7 +11,7 @@ The hackathon is part of the youth programming at the [22nd Women's Studies Conf
 The hackathon is 100% community funded and we need your help. Funds raised will first go to providing free team registration for area youth, sanck and food for particiapnts, prize money for winners, and any remianing funds will be used to defray the costs of guest judges.
 
 There are a variety of [Donation tiers](http://southernct.edu/academics/schools/arts/departments/womensstudies/annualconference/vendorregistrationinformation.html) that will allow you to display an advertisement in the conference program:
-* **Back Cover**               7.5 X 10  $350
+* **Inside Back Cover**        7.5 X 10  $300
 * **Inside Front Cover**       7.5 X 10  $325
 * **Full Page**                7.5 X 10  $250
 * **Half Page**                  4 x 10  $175
