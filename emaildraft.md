@@ -4,7 +4,7 @@ As president of the Southern Connecticut State University Computer Science Club 
 
 Our current initiative focuses on getting more women involved in the greater New Haven Tech scene. We wanted to inquiy if {Insert compant} wants to partner in these efforts.
 
-This April we will host our first annual hackathon. This year the event  #femhack will focus on  promoting young women’s development of skills related to computer programming and give proper guidance for their future endeavors. The event will happen April 16th from 9:00AM-4:00PM at SCSU. 
+This April we will host our first annual hackathon. The event  #femhack will focus on  promoting young women’s development of skills related to computer programming and give proper guidance for their future endeavors. The event will happen April 16th from 9:00AM-4:00PM at SCSU. 
 
 The hackathon is part of the youth programming at the [22nd Women's Studies Conference: #FeministIn(ter)ventions: Women, Community, Technology](http://southernct.edu/academics/schools/arts/departments/womensstudies/annualconference). 
 
