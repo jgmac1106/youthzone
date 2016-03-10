@@ -13,7 +13,6 @@ The hackathon is 100% community funded and we need your help. Funds raised will 
 There are a variety of [Donation tiers](http://southernct.edu/academics/schools/arts/departments/womensstudies/annualconference/vendorregistrationinformation.html) that will allow you to display an advertisement in the conference program:
 * **Back Cover**               7.5 X 10  $350
 * **Inside Front Cover**       7.5 X 10  $325
-* **Inside Back Cover**        7.5 X 10  $300
 * **Full Page**                7.5 X 10  $250
 * **Half Page**                  4 x 10  $175
 * **Half Page**                7.5 X 5   $175
